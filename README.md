@@ -13,7 +13,7 @@ documenting defects. Proficient in test management tools and agile methodologies
 - **LinkedIn**: www.linkedin.com/in/bryan-guillermo-carambula-79661925b
 
 ---
-### 🚀 Lenguajes y herramientas :
+### 🚀 TOOLS :
 <div id="header" align="left">
   
    [![My Skills](https://skillicons.dev/icons?i=py,postman,github,js,html,css,figma,mysql,mongodb,)](https://skillicons.dev)

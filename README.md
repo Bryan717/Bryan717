@@ -2,7 +2,7 @@
 
 
 <div style="background-color: #4B0082; padding: 20px; border-radius: 10px; text-align: center; color: black;">
-  <h1>👋 ¡Hola! Soy Bryan Guillermo</h1>
+  <h1>👋 ¡HI! I´m Bryan Guillermo</h1>
   <p>QA Tester with experience in manual testing and knowledge of automation. Committed to ensuring software quality by identifying and
 documenting defects. Proficient in test management tools and agile methodologies, with strong communication and teamwork.</p>
 </div>
@@ -30,6 +30,14 @@ documenting defects. Proficient in test management tools and agile methodologies
  - created and executed comprehensive test cases to monitor
       defects in mobile applications and websites.
 
+
+---
+###  EDUCATION :
+### Licenciatura en TI
+ - Centro Universitario de Ciencias Económico
+
+### QA Engineer
+ - Tripleten
 ---
 ###  INTEREST :
 - QA MANUAL
